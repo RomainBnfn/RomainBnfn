@@ -1,4 +1,4 @@
-# Bienvenue sur mon GitHub
+# Bienvenue sur ma page personnelle
 
 Ici vous pouvez retrouver une partie des projets personnels ou scolaires que j'ai réalisé. 
 
